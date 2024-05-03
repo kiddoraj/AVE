@@ -23,7 +23,7 @@ AVE is a Python-based automated credit sales program designed to facilitate the 
 
 ## Development Team
 
-- Developer 1: [Name]
+- Developer 1: [https://github.com/kiddoraj]
 - Developer 2: [Name]
 - Developer 3: [Name]
 - Business Analyst: [Name]
@@ -43,7 +43,7 @@ To get started with AVE, follow these steps:
 
 ## Contributing
 
-Contributions to AVE are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) if you'd like to contribute.
+Contributions to AVE are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
 ## License
 
