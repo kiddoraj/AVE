@@ -24,7 +24,7 @@ AVE is a Python-based automated credit sales program designed to facilitate the 
 ## Development Team
 
 - Developer 1: [Ishaq Rajab](https://github.com/kiddoraj)
-- Developer 2: [Name]
+- Developer 2: [simon kamau](https://github.com/simokamaa)
 - Developer 3: [Name]
 - Business Analyst: [Name]
 
